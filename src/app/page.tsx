@@ -419,7 +419,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16 lg:h-20">
         {/* Logo */}
         <a href="#hero" className="flex items-center gap-3 shrink-0">
-          <img src="/logo1.svg" alt="АСУ №7" className="h-10 lg:h-12 w-auto" />
+          <img src="/logo1.jpg" alt="АСУ №7" className="h-10 lg:h-12 w-auto" />
         </a>
 
         {/* Desktop nav */}
@@ -524,10 +524,7 @@ function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          {/* 8. Gold glow on logo */}
-          <div className="mb-6 flex justify-center">
-            <img src="/logo1.svg" alt="АСУ №7" className="h-16 sm:h-20 lg:h-24 w-auto gold-glow rounded-lg" />
-          </div>
+          
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white mb-4 tracking-tight">
             ООО{' '}
             <span className="gold-shimmer">АСУ №7</span>
