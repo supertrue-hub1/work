@@ -259,7 +259,7 @@ function CinematicPreloader() {
 
   return (
     <div className={`preloader ${loaded ? 'loaded' : ''}`}>
-      <img src="/logo.png" alt="АСУ №7" className="h-16 w-auto preloader-logo brightness-110" />
+      <img src="/logo1.svg" alt="АСУ №7" className="h-16 w-auto preloader-logo brightness-110" />
       <div className="preloader-progress-track">
         <div className="preloader-progress-bar" />
       </div>
@@ -419,7 +419,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16 lg:h-20">
         {/* Logo */}
         <a href="#hero" className="flex items-center gap-3 shrink-0">
-          <img src="/logo.png" alt="АСУ №7" className="h-10 lg:h-12 w-auto" />
+          <img src="/logo1.svg" alt="АСУ №7" className="h-10 lg:h-12 w-auto" />
         </a>
 
         {/* Desktop nav */}
@@ -526,7 +526,7 @@ function HeroSection() {
         >
           {/* 8. Gold glow on logo */}
           <div className="mb-6 flex justify-center">
-            <img src="/logo.png" alt="АСУ №7" className="h-16 sm:h-20 lg:h-24 w-auto gold-glow rounded-lg" />
+            <img src="/logo1.svg" alt="АСУ №7" className="h-16 sm:h-20 lg:h-24 w-auto gold-glow rounded-lg" />
           </div>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white mb-4 tracking-tight">
             ООО{' '}
@@ -1357,7 +1357,7 @@ function Footer() {
           {/* Logo & About */}
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="flex items-center gap-3 mb-4">
-              <img src="/logo.png" alt="АСУ №7" className="h-10 w-auto brightness-110" />
+              <img src="/logo1.svg" alt="АСУ №7" className="h-10 w-auto brightness-110" />
             </div>
             <p className="text-sm text-white/50 leading-relaxed mb-1">
               ООО «АСУ №7» — Архитектурное строительное управление №7
