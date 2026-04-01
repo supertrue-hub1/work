@@ -1267,8 +1267,8 @@ function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-bold text-charcoal mb-1">Телефон</h3>
-                    <a href="tel:+79050222355" className="text-gold font-semibold hover:underline">
-                      +7 905 022-23-55
+                    <a href="tel:+79801847933" className="text-gold font-semibold hover:underline">
+                      +7-980-184-79-33
                     </a>
                   </div>
                 </CardContent>
@@ -1282,8 +1282,8 @@ function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-bold text-charcoal mb-1">E-mail</h3>
-                    <a href="mailto:asu-722@mail.ru" className="text-gold font-semibold hover:underline">
-                      asu-722@mail.ru
+                    <a href="mailto:asu7-bd@mail.ru" className="text-gold font-semibold hover:underline">
+                      asu7-bd@mail.ru
                     </a>
                   </div>
                 </CardContent>
@@ -1399,13 +1399,13 @@ function Footer() {
           <div>
             <h4 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Контакты</h4>
             <div className="flex flex-col gap-3 text-sm">
-              <a href="tel:+79050222355" className="flex items-center gap-2 text-gold hover:text-gold-light transition-colors">
+              <a href="tel:+79801847933" className="flex items-center gap-2 text-gold hover:text-gold-light transition-colors">
                 <Phone className="h-4 w-4 shrink-0" />
-                +7 905 022-23-55
+                +7-980-184-79-33
               </a>
-              <a href="mailto:asu-722@mail.ru" className="flex items-center gap-2 text-white/50 hover:text-gold transition-colors">
+              <a href="mailto:asu7-bd@mail.ru" className="flex items-center gap-2 text-white/50 hover:text-gold transition-colors">
                 <Mail className="h-4 w-4 shrink-0" />
-                asu-722@mail.ru
+                asu7-bd@mail.ru
               </a>
               <div className="flex items-start gap-2 text-white/50">
                 <MapPin className="h-4 w-4 shrink-0 mt-0.5" />
